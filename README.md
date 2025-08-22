@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Fasih Ahmad Khan]  
+# Hi there 👋, I'm Fasih Ahmad Khan
 
 💻 **Software Engineer** | Passionate About Problem-Solving & Clean Code  
 
@@ -72,7 +72,7 @@
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fasih-ahmed-khan-a984ab226/)
 [![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fasihkhan124124@gmail.com)
 
 
