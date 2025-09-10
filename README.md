@@ -72,7 +72,7 @@
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fasih-ahmed-khan-a984ab226/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fasih-ahmad-khan-a984ab226/)
 [![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fasihkhan124124@gmail.com)
 
 
