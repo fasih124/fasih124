@@ -111,7 +111,7 @@ Real-time web chat platform enabling **instant messaging and file sharing**, imp
 <td width="33%" valign="center">
 
 ### 🛒 E-Commerce Website
-Full-stack e-commerce platform with **product listing, cart, and authentication**, enhancing user shopping experience and order management.
+Full-stack e-commerce platform with **product listing, cart** and enhancing user shopping experience.
 
 
 🔗 [View Details](https://github.com/fasih124/E-commerce-web-app)
