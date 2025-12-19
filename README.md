@@ -1,22 +1,100 @@
-# Hi there 👋, I'm Fasih Ahmad Khan
 
-💻 **Software Engineer** | Passionate About Problem-Solving & Clean Code  
-
+<p align="left">
+  <img width='100%'  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNwaXgzbm4wMGV6Mmcwa3U2OTV0N2did2NxM2hmNHIyNHdla2FkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" />
+</p>
 ---
 
-## 👨‍💻 About Me  
-- 🎓 Fresh **Software Engineering Graduate**  
-- 💡 Passionate about **designing efficient, scalable, and maintainable software**  
-- 🌱 Currently improving my skills in **Mern, Data Structure, Networking, and Database Design**  
-- 🔍 Actively looking for opportunities as a **Software Developer**
-- 🧩 Strong interest in **Object-Oriented Programming (OOP)**, **Data Structures**, and **Algorithms**
+# 👋, I'm Fasih Ahmad Khan
+
+**`💻 Software Engineer | Product Focused Full Stack Developer`**
+
+<p align="justify">
+Product-focused Software Engineer specializing in MERN full stack development, seeking a full-time opportunity to apply strong problem-solving, clean coding, and end-to-end application development skills. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+</p>
+
+<!--
+Product-focused Software Engineer specializing in MERN full stack development, seeking a full-time opportunity to apply strong problem-solving, clean coding, and end-to-end application development
+skills. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.-->
+
 
 ---
 
 ## 🛠️ Tech Stack  
 
+<table width="100%" border='5'>
+<tr>
+<td width="50%" valign="top" >
+
 ### **Languages**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,cs,cpp,java,dart,c" />
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top" >
+
+### **Databases**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" />
+  </a>
+</p>
+
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" >
+
+### **Frameworks & Tools**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,redux,flutter,dotnet" />
+  </a>
+</p>
+
+
+</td>
+<td width="50%" valign="top" >
+
+### **Other Tools**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,npm" />
+  </a>
+</p>
+
+
+</td>
+</tr>
+</table>
+
+
+
+<!-- 
+## 🛠️ Tech Stack  
+
+### **Languages**
+
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,cs,cpp,java,dart,c" />
+  </a>
+</p>
+
+
+<!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
+
+
+
+ ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,7 +102,16 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
+
 ### **Frameworks & Tools**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,redux,flutter,dotnet" />
+  </a>
+</p>
+
+<!--
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-512BD4?style=for-the-badge&logo=windows&logoColor=white)
@@ -36,14 +123,29 @@
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white)
 
 ### **Databases**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" />
+  </a>
+</p>
+<!--
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL Server](https://img.shields.io/badge/MySQL%20Server-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Other Tools & Stacks**
-![MERN (without React)](https://img.shields.io/badge/MERN%20Stack%20(Express%2C%20Node%2C%20MongoDB)-4DB33D?style=for-the-badge&logo=node.js&logoColor=white)
+### **Other Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,npm" />
+  </a>
+</p>
+
+<!--
+![MERN](https://img.shields.io/badge/MERN%20Stack%20(Express%2C%20Node%2C%20MongoDB)-4DB33D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+-->
 
 ---
 
@@ -66,15 +168,16 @@
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasih124&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasih124&layout=compact&theme=tokyonight)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasih124&layout=compact&theme=tokyonight) -->
 
 ---
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fasih-ahmad-khan-a984ab226/)
-[![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fasihkhan124124@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dev-fasih-ahmad-khan/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:fasihkhan124124@gmail.com)
 
+---
 
 <!---
 fasih124/fasih124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
