@@ -1,7 +1,8 @@
 
 <p align="left">
-  <img width='100%'  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNwaXgzbm4wMGV6Mmcwa3U2OTV0N2did2NxM2hmNHIyNHdla2FkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" />
+  <img width='100%' height='300' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNwaXgzbm4wMGV6Mmcwa3U2OTV0N2did2NxM2hmNHIyNHdla2FkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" />
 </p>
+
 ---
 
 # 👋, I'm Fasih Ahmad Khan
@@ -17,63 +18,7 @@ Product-focused Software Engineer specializing in MERN full stack development, s
 skills. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.-->
 
 
----
 
-## 🛠️ Tech Stack  
-
-<table width="100%" border='5'>
-<tr>
-<td width="50%" valign="top" >
-
-### **Languages**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,cs,cpp,java,dart,c" />
-  </a>
-</p>
-
-</td>
-<td width="50%" valign="top" >
-
-### **Databases**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" />
-  </a>
-</p>
-
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" >
-
-### **Frameworks & Tools**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,redux,flutter,dotnet" />
-  </a>
-</p>
-
-
-</td>
-<td width="50%" valign="top" >
-
-### **Other Tools**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,npm" />
-  </a>
-</p>
-
-
-</td>
-</tr>
-</table>
 
 
 
@@ -149,19 +94,122 @@ skills. All coding projects are built from the ground up, from planning and desi
 
 ---
 
-## 📌 Projects  
+## 🚀 Featured Projects
 
-### **TradeOps** *(WPF Desktop Application)*
-> A **wholesale business management** app to handle product inventory, customer data, orders, and invoices using **MVVM**, **SQLite**, and **Material Design**.  
-**Tech:** C#, WPF, MVVM, SQLite  
+<table width="100%">
+<tr>
+<td width="33%" valign="center">
 
-### **RainSafe Dryline** *(IoT Project)*
-> A **smart clothesline system** that detects moisture and automatically protects clothes from rain using sensors and automation.  
-**Tech:** C++, Firebase, IoT  
+### 💬 Chat Application
+Real-time web chat platform enabling **instant messaging and file sharing**, improving team communication efficiency.
 
-### **CareNest** *(Flutter App)*
-> A mobile app to monitor baby Health in smart Cradle and notify Parent.  
-**Tech:** Flutter, Firebase , IOT
+
+
+🔗 [View Details](https://github.com/fasih124/ChatApp)
+
+</td>
+<td width="33%" valign="center">
+
+### 🛒 E-Commerce Website
+Full-stack e-commerce platform with **product listing, cart, and authentication**, enhancing user shopping experience and order management.
+
+
+🔗 [View Details](https://github.com/fasih124/E-commerce-web-app)
+
+  </td>
+  <td width="33%" valign="center">
+
+### 👶 Baby Monitoring App (FYP)
+Real-time baby monitoring system enhancing **parental awareness and safety** by detecting baby presence and environmental conditions.
+ 
+
+🔗 [View Details](https://github.com/fasih124/FYP_203)
+
+  </td>
+  </tr>
+  <tr>
+<td width="33%" valign="center">
+
+### 🧾 TradeOps
+A wholesale business management app to handle product inventory, customer data, orders, and invoices using MVVM, SQLite, and Material Design.
+
+
+
+🔗 [View Details](https://github.com/fasih124/TradeOps)
+
+</td>
+
+<td width="33%" valign="center">
+
+### ✔ Mini Task Manager
+A Simple to-do web application with user authentication supporting secure task creation, updates, and deletion.
+ 
+
+🔗 [View Details](https://github.com/fasih124/Mini-Task-Manager)
+
+  </td>
+  </tr>
+</table>
+
+
+
+---
+
+## 🛠️ Tech Stack  
+
+<table width="100%" border='5'>
+<tr>
+<td width="50%" valign="top" >
+
+### **Languages**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,cs,cpp,java,dart,c" />
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top" >
+
+### **Databases**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" />
+  </a>
+</p>
+
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" >
+
+### **Frameworks & Tools**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,redux,flutter,dotnet" />
+  </a>
+</p>
+
+
+</td>
+<td width="50%" valign="top" >
+
+### **Other Tools**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,npm" />
+  </a>
+</p>
+
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -170,12 +218,17 @@ skills. All coding projects are built from the ground up, from planning and desi
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasih124&show_icons=true&theme=tokyonight)  
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasih124&layout=compact&theme=tokyonight) -->
 
----
 
-## 📫 Connect with Me  
+## 📫 Connect with Me  :
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dev-fasih-ahmad-khan/)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:fasihkhan124124@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dev-fasih-ahmad-khan/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:fasihkhan124124@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
