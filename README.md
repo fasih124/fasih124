@@ -276,7 +276,7 @@ Full-stack web app for gym owners to manage trainers, sessions, and customer boo
 
 **Stack:** React · Node.js · Express · MongoDB
 
-🔗 [Live Demo](https://your-fitzone-demo-link.com) · [Case Study](https://your-portfolio-link.com/work/fitzone) · [Repository](https://github.com/your-github-username/fitzone)
+🔗 [Live Demo](https://fitzone-gym-ten.vercel.app/) · [Case Study](https://www.buildbyfasih.me/work/fitzone) · [Repository](https://github.com/fasih124/fitzone-gym)
 
 </td>
 
@@ -287,8 +287,7 @@ Marketing landing page for a SaaS product with animated sections, feature highli
 
 **Stack:** Next.js · Tailwind CSS · Framer Motion
 
-🔗 [Live Demo](https://your-studiosync-demo-link.com) · [Case Study](https://your-portfolio-link.com/work/studiosync) · [Repository](https://github.com/your-github-username/studiosync)
-
+🔗 [Live Demo](https://studiosync-ten.vercel.app/)· [Case Study](https://www.buildbyfasih.me/work/studiosync) · [Repository](https://github.com/fasih124/studiosync)
 </td>
 
 </tr>
@@ -301,7 +300,7 @@ Product landing page for a food delivery brand. Includes menu showcase, delivery
 
 **Stack:** Next.js · Tailwind CSS
 
-🔗 [Live Demo](https://your-zesto-demo-link.com) · [Case Study](https://your-portfolio-link.com/work/zesto) · [Repository](https://github.com/your-github-username/zesto)
+🔗 [Live Demo](https://zesto-xi.vercel.app/) · [Case Study](https://www.buildbyfasih.me/work/zesto) · [Repository](https://github.com/fasih124/zesto)
 
 </td>
 
@@ -312,7 +311,7 @@ Product landing page for a food delivery brand. Includes menu showcase, delivery
 
 **Stack:** Flutter · Dart · Riverpod · GoRouter
 
-🔗 [Case Study](https://your-portfolio-link.com/work/quickbite) · [Repository](https://github.com/your-github-username/quickbite)
+🔗 [Case Study](https://www.buildbyfasih.me/work/quickbite) · [Repository](https://github.com/fasih124/Quickbite)
 
 </td>
 
@@ -326,7 +325,7 @@ Flutter invoice and POS app for small shopkeepers. Features Urdu voice input for
 
 **Stack:** Flutter · Dart · Riverpod · Isar · GoRouter
 
-🔗 [Case Study](https://your-portfolio-link.com/work/asaanbill) · [Repository](https://github.com/your-github-username/asaan-bill)
+🔗 [Case Study](https://www.buildbyfasih.me/work/asaanbill) · [Repository](https://github.com/fasih124/Quickbite)
 
 </td>
 
@@ -336,7 +335,7 @@ Flutter invoice and POS app for small shopkeepers. Features Urdu voice input for
 
 *More projects on my portfolio →*
 
-🔗 [your-portfolio-link.com](https://your-portfolio-link.com)
+🔗 [your-portfolio-link.com](https://www.buildbyfasih.me)
 
 </td>
 
@@ -408,7 +407,18 @@ Flutter invoice and POS app for small shopkeepers. Features Urdu voice input for
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=true&title_color=C84B31&icon_color=C84B31&text_color=1A1A1A&bg_color=F9F7F4)
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasih124&show_icons=true&theme=tokyonight)  
+    </td>
+    <td width="50%">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasih124&layout=compact&theme=tokyonight) 
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -417,12 +427,10 @@ Flutter invoice and POS app for small shopkeepers. Features Urdu voice input for
 I am currently available for freelance projects. If you are a founder or business owner looking to build a web app, mobile app, or internal tool — let's talk.
 
 **What I build:**
-- SaaS web applications and MVPs
+- web applications
 - Business management tools and admin dashboards
-- Flutter mobile apps for Android
 - Product and marketing landing pages
 
-📬 **Reach me at:** [knight@your-domain.com](mailto:knight@your-domain.com)
-🌐 **See my work:** [your-portfolio-link.com](https://your-portfolio-link.com)
-📅 **Book a call:** [your-calendly-link.com](https://your-calendly-link.com)
+📬 **Reach me at:** [Contact@buildbyfasih.me](mailto:contact@buildbyfasih.me)
+🌐 **See my work:** [buildbyfasih.me](https://www.buildbyfasih.me)
 
