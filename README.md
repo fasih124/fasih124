@@ -257,8 +257,8 @@ I build custom web applications and mobile apps for startups and growing busines
   <a href="https://linkedin.com/in/your-linkedin-handle">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:contact@buildbyfasih.me">
-    <img src="https://img.shields.io/badge/Email-contact@buildbyfasih.me-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:contactme@buildbyfasih.me">
+    <img src="https://img.shields.io/badge/Email-contactme@buildbyfasih.me-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -431,6 +431,6 @@ I am currently available for freelance projects. If you are a founder or busines
 - Business management tools and admin dashboards
 - Product and marketing landing pages
 
-📬 **Reach me at:** [Contact@buildbyfasih.me](mailto:contact@buildbyfasih.me)
+📬 **Reach me at:** [Contactme@buildbyfasih.me](mailto:contactme@buildbyfasih.me)
 🌐 **See my work:** [buildbyfasih.me](https://www.buildbyfasih.me)
 
