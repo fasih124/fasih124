@@ -254,7 +254,7 @@ I build custom web applications and mobile apps for startups and growing busines
   <a href="https://www.buildbyfasih.me">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-C84B31?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-handle">
+  <a href="https://www.linkedin.com/in/dev-fasih-ahmad-khan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:contactme@buildbyfasih.me">
@@ -431,6 +431,8 @@ I am currently available for freelance projects. If you are a founder or busines
 - Business management tools and admin dashboards
 - Product and marketing landing pages
 
+
 📬 **Reach me at:** [Contactme@buildbyfasih.me](mailto:contactme@buildbyfasih.me)
 🌐 **See my work:** [buildbyfasih.me](https://www.buildbyfasih.me)
+📞 **Book a free Call:** [Book-Call](https://calendly.com/fasih-ahmad/discovery-call)
 
