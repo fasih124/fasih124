@@ -325,7 +325,7 @@ Flutter invoice and POS app for small shopkeepers. Features Urdu voice input for
 
 **Stack:** Flutter · Dart · Riverpod · Isar · GoRouter
 
-🔗 [Case Study](https://www.buildbyfasih.me/work/asaanbill) · [Repository](https://github.com/fasih124/Quickbite)
+🔗 [Case Study](https://www.buildbyfasih.me/work/asaanbill) · [Repository](https://github.com/fasih124/AssanBill) 
 
 </td>
 
